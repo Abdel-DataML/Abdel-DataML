@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:5EFCE8&height=200&section=header&text=Welcome%20to%20my%20Lab&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:89CFF0,100:5EFCE8&height=200&section=header&text=Welcome%20to%20my%20Lab&fontSize=50&fontColor=0:000000,100:434343&fontAlignY=40&animation=fadeIn)
 
 ## 👋 Hey, I'm Abdel
 
