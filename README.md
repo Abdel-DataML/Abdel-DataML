@@ -53,7 +53,7 @@
 - Batch & real-time data pipelines
 - Infrastructure as Code
 - CI/CD (GitHub Actions)
-- Reporting & dashboards (Power BI)
+- Reporting & dashboards (Power BI / Looker)
 
 ---
 
