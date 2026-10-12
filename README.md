@@ -2,7 +2,7 @@
 
 ## 👋 Hey, I'm Abdel
 
-💼 Data Engineer in training at **IVECO** · 🎓 Certified Data Analyst (**RNCP**)  
+💼 Data Engineer at **IVECO** · 🎓 Certified Data Analyst (**RNCP**)  
 🛠️ Building data pipelines with **PySpark** and **Databricks**  
 📚 Lifelong learner, always exploring new technologies
 
