@@ -61,13 +61,10 @@
 
 ## 🚀 Highlight Projects
 
-- 🛡️ **[VigieAssurance](https://github.com/[TON-PSEUDO]/[NOM-DU-REPO])**  
+- 🛡️ **[VigieAssurance](https://github.com/Abdel-DataML/VigieAssurance)**  
   Ce que fait le projet en une phrase (Python, Pandas, [autres technos]).
 
-- 📈 **[CryptoRookie](https://github.com/[TON-PSEUDO]/[NOM-DU-REPO])**  
-  Courte description : ce que fait le projet + technos utilisées.
-
-- 🔄 **[Nom du projet 3](https://github.com/[TON-PSEUDO]/[NOM-DU-REPO])**  
+- 📈 **[CryptoRookie](https://github.com/Abdel-DataML/CryptoRookie)**  
   Courte description : ce que fait le projet + technos utilisées.
 
 ---
